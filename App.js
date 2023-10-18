@@ -11,9 +11,3 @@ function App() {
 }
 
 export default App;
-/*
-onchange --->  +  debounce 
-remove button search 
-pagination functionality
-cache results --> keyword --> dictionary 
-*/
